@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -89,6 +91,18 @@ h1 {
   position: relative;
 }
 
+.Jassy{
+  margin: 40px;
+  padding: 20px;
+  font-size: large;
+  color: #fff;
+  text-decoration: none;
+  text-align: right;
+  font-family: 'Nunito', sans-serif;
+  opacity: 30%;
+
+}
+
 .todo-row {
   display: flex;
   justify-content: space-between;
@@ -145,3 +159,4 @@ h1 {
 .edit-icon {
   color: #fff;
 }
+

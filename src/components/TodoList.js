@@ -50,6 +50,7 @@ function TodoList() {
         removeTodo={removeTodo}
         updateTodo={updateTodo}
       />
+      <h6 ><a className='Jassy' href="https://jassy.in/">Jassy.in</a></h6>
     </>
   );
 }
