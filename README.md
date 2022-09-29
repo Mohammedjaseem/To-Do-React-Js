@@ -13,6 +13,6 @@ I recently created this to-do project.  The clone has been built using React JS,
 - Adding firebase hosting to your app
 - Deploying Your App to Firebase & Host it online
 
-### Check out the  To-do : [ To-Do List  |  todo.jassy.in ](https://todo.jassy.in)
+### Check out Live preview : [ To-Do List  |  todo.jassy.in ](https://todo.jassy.in)
 
 ###
