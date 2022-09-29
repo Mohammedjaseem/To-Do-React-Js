@@ -4,7 +4,7 @@
 
 
 
-I recently created this to-do project.  The clone has been built using React JS, React-hooks, Styled-component, and Firebase (hosting & Deploying). I also plan to add further functionality such as user authorization, a dedicated backend to maintain the user database, and replicate it as close as possible to the original website.
+I recently created this to-do project.  The clone has been built using React JS, React-hooks, Styled-component, and Firebase (hosting & Deploying). I also plan to add further functionality such as user authorization, a dedicated backend to maintain the user database.
 
 
 ### Steps Include : 
